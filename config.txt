@@ -1,0 +1,12 @@
+#不能使用空格	tab 回车 换行可以
+[admin]
+ipAddress=10.10.90.125	#ipAddress
+port=3001	#
+username=mark
+password=2d2df5a
+
+[date]
+08:40-10:30
+10:40-12:00
+14:00-16:00
+16:40-18:00
